@@ -18,13 +18,6 @@ Server will be started at http://localhost:5000
 1. Save Files:
       - Save 'server.js' and 'gameLogic.js' in your tic_tac_toe_node directory.
 2. Start the Server:
-        <br />
-       Run the following commands:
-        <br />
-      ```
-        npm init -y
-        npm install
-      ```
       - Run 'node server.js' in your terminal.
 4. Access the Game:
       - Open your browser and go to "http://localhost:5000/board" to see the current game board.
